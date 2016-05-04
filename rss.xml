@@ -4,8 +4,15 @@
         <description><![CDATA[RevTwo]]></description>
         <link>https://thegrid.ai/revtwo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 20:10:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2016 20:21:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/revtwo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Draft1]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c47c8fe2-c200-44b9-9572-ec25c90eb4fa.jpg">]]></description>
+            <link>https://thegrid.ai/revtwo/d61e9631-58a6-4cce-8683-ea6e986d80a6/index.html</link>
+            <guid isPermaLink="false">d61e9631-58a6-4cce-8683-ea6e986d80a6</guid>
+            <pubDate>Wed, 04 May 2016 20:21:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Test1foto]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e6834ca-d438-4027-8459-fefca94828a7.jpg">]]></description>
@@ -33,13 +40,6 @@
             <link>https://thegrid.ai/revtwo/lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit-ae/index.html</link>
             <guid isPermaLink="false">d69779c6-d2d6-4997-b8ea-edeb86297ab4</guid>
             <pubDate>Wed, 04 May 2016 20:10:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c47c8fe2-c200-44b9-9572-ec25c90eb4fa.jpg">]]></description>
-            <link>https://thegrid.ai/revtwo/d61e9631-58a6-4cce-8683-ea6e986d80a6/index.html</link>
-            <guid isPermaLink="false">d61e9631-58a6-4cce-8683-ea6e986d80a6</guid>
-            <pubDate>Wed, 04 May 2016 20:10:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
