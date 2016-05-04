@@ -4,13 +4,20 @@
         <description><![CDATA[RevTwo]]></description>
         <link>https://thegrid.ai/revtwo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 20:10:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2016 20:10:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/revtwo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Test 2foto]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/48c394a8-50cc-4dca-b953-eb9ed2f1766c.jpg">]]></description>
             <link>https://thegrid.ai/revtwo/test-2foto/index.html</link>
             <guid isPermaLink="false">55ff13d4-e67c-4b6b-88d5-ef981334d7ac</guid>
+            <pubDate>Wed, 04 May 2016 20:10:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui.]]></title>
+            <description><![CDATA[<article><h1>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b31a7cc87e944ee2ae8791f01564ef9dfba9c3de.jpg"></article>]]></description>
+            <link>https://thegrid.ai/revtwo/lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit-ae/index.html</link>
+            <guid isPermaLink="false">639b19bc-cb9a-4cdc-92c1-0edacc0ab040</guid>
             <pubDate>Wed, 04 May 2016 20:10:48 GMT</pubDate>
         </item>
         <item>
