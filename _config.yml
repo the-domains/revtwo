@@ -1,19 +1,4 @@
-name: RevTwo
-favicon: null
-layout_spectrum: 0.24982
 typography_spectrum: 0.77101
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#E0FBFC'
@@ -25,4 +10,20 @@ color:
   lightness: 1
   saturation: 0.843198282411322
   rhythmicContrast: 0.7374868176411837
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.24982
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: RevTwo
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Reverso.Z
 purpose: []
