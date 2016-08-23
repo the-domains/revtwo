@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[RevTwo]]></title>
-        <description><![CDATA[RevTwo]]></description>
+        <title><![CDATA[Reverso.Z]]></title>
+        <description><![CDATA[Reverso.Z]]></description>
         <link>https://thegrid.ai/revtwo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 20:52:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 12:31:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/revtwo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wat past?]]></title>
+            <description><![CDATA[<article><h1>Wat past?</h1><p>Wat krijgt de bezoeker te zien?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a670a22c8c825a9980208b28db8e22d879d28e6e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/revtwo/d61e9631-58a6-4cce-8683-ea6e986d80a6/index.html</link>
+            <guid isPermaLink="false">d61e9631-58a6-4cce-8683-ea6e986d80a6</guid>
+            <pubDate>Tue, 23 Aug 2016 12:30:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui.]]></title>
             <description><![CDATA[<article><h1>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b31a7cc87e944ee2ae8791f01564ef9dfba9c3de.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/revtwo/test1foto/index.html</link>
             <guid isPermaLink="false">913f4090-0296-43ae-870e-d140c393f4ba</guid>
             <pubDate>Wed, 04 May 2016 20:51:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Draft1]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c47c8fe2-c200-44b9-9572-ec25c90eb4fa.jpg">]]></description>
-            <link>https://thegrid.ai/revtwo/d61e9631-58a6-4cce-8683-ea6e986d80a6/index.html</link>
-            <guid isPermaLink="false">d61e9631-58a6-4cce-8683-ea6e986d80a6</guid>
-            <pubDate>Wed, 04 May 2016 20:30:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Draft2]]></title>
